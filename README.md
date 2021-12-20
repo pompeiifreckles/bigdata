@@ -2,6 +2,9 @@
 Big Data Experiments
 
 ## running instructions
+Before running these python scripts install python module `mrjob`
+
+``` pip3 install mrjob ```
 
 ### count occurence of words
 - python 1_wordCount.py 1_test.txt
